@@ -63,7 +63,7 @@ button{
     border: none;
     outline: none;
     padding: 1% 2% ;
-    background: #0f11a0;
+    background: linear-gradient(126deg, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
     color: #fff;
     font-size: 16px;
     cursor: pointer;
